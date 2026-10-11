@@ -1,32 +1,30 @@
 layout: default
-title: Your Name - Academic Portfolio
+title: Jen Horton - Academic Portfolio
 ---
 
 ![Featured Image](/assets/featured-image.jpg)
 
-# Your Name
-## Your Academic Position
+# Jen Horton 
+## PhD Student
 
 ### About Me
-Briefly introduce yourself and your academic interests.
+I am a PhD student in the Texts and Technology program at the University of Central Florida, exploring the intersections of literature, cognition, digital rhetoric, and learning. After two decades in media as a journalist, writer, and government spokesperson, I transitioned into education, where I teach English, psychology, and global perspectives.
+
+My research interests center on how texts shape the ways we think, learn, feel, and engage with the world. I am particularly interested in the cognitive and physiological dimensions of reading, the relationship between literary genre and learning outcomes, and the evolving role of artificial intelligence in literacy and education.
 
 ### Research Interests
-- Topic 1
-- Topic 2
-- Topic 3
+- Genre and Learning: Investigating whether different literary and informational genres produce measurable differences in comprehension, retention, and learning outcomes.
+- Horror, Suspense, and Cognition: Exploring how suspenseful narratives influence cognitive engagement and physiological responses, including patterns associated with attention, arousal, and anticipation.
+- AI, Literacy, and Digital Rhetoric: Examining how artificial intelligence and emerging technologies reshape reading, writing, critical thinking, and teaching practices.
 
 ### Publications and/or Conferences
 
-1. Paper Title, Journal, Year
-2. Another Paper Title, Conference, Year
+Research and conference presentations forthcoming.
 
 ### Contact
 
-- Email: your-email@example.com
-- Office: Your office location
+- Email: JHorton04@gmail.com
+- Office: DeLand, FL
 
 ### Follow Me
-
-- [Bluesky](https://bsky.app/your_bluesky_handle)
-- [LinkedIn](https://linkedin.com/in/your_linkedin_profile)
-- [GitHub](https://github.com/your_github_username)
+Academic profiles and professional links coming soon.
