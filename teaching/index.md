@@ -5,10 +5,13 @@ title: Teaching Experience
 
 # Teaching Experience
 
-## Course 1
-- Description
-- Semester Taught
+## Daytona State College 
+- Lit 2000 - Ghosts, Gothic and the Rhetoric of Other 
+-Fall 2026
 
-## Course 2
-- Description
-- Semester Taught
+## Volusia Schools Advanced International Certificate of Education, grades 10-12
+-Psyhology 
+-General Paper
+-Global Perspectives 
+-English Language 
+- Full year 2026-27
